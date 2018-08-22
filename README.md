@@ -14,4 +14,4 @@ This repository has notes, quizzes and projects of the following **[FREE courses
 10. [Client-Server Communications](https://www.udacity.com/course/ud897)
 11. [High Conversion Web Forms](https://www.udacity.com/course/ud890)
 
-This repository is part of an effort to become a **[Google Mobile Web Specialist](https://developers.google.com/training/certification/mobile-web-specialist/#requirements)**.
+This repository is part of an effort to become a certified **[Google Mobile Web Specialist](https://developers.google.com/training/certification/mobile-web-specialist/#requirements)**.
